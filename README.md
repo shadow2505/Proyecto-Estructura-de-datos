@@ -82,8 +82,11 @@ Respecto a los objetivos propuestos, se lograron cumplir al realizar la búsqued
 ## 7. Referencias
 Las referencias, aunque fueron mostradas anteriormente, vuelven a emplearse, estas fueron aquellas que se emplearon para corroborar la información dada por las IAs
 
-GeeksforGeeks. (2024a, junio 6). Static and Dynamic Data Structures. GeeksforGeeks. https://www.geeksforgeeks.org/static-and-dynamic-data-structures-in-java-with-examples/ \n
+GeeksforGeeks. (2024a, junio 6). Static and Dynamic Data Structures. GeeksforGeeks. https://www.geeksforgeeks.org/static-and-dynamic-data-structures-in-java-with-examples/
+
 GeeksforGeeks. (2024b, noviembre 12). Sorting algorithms. GeeksforGeeks. https://www.geeksforgeeks.org/sorting-algorithms/
 W3Schools.com. (s.f.). https://www.w3schools.com/c/index.php
+
 Morin, P. (2013). Open Data Structures: An Introduction. https://opendatastructures.org/
+
 Wayne, R. S. A. K. (s. f.). Bags, Queues, and Stacks. https://algs4.cs.princeton.edu/13stacks/

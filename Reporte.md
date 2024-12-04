@@ -23,6 +23,7 @@ Desarrollar un método para integrar información de diferentes fuentes.
 Las tareas que realizo el equipo son las siguientes:
 Bruno Tarango: Conexión a Git, creación del Reporte y diseño CSS de la página web.
 Ricardo Villalobos: Principal aportador de información, modificaciones para el compilador y la IA.
+Angel Oliva: Conexión a Git, conexion a api y render.
 
 ## 3.- Desarrollo del Sistema
 

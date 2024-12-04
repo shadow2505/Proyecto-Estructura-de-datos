@@ -28,7 +28,7 @@ Ricardo Villalobos: Principal aportador de información, modificaciones para el 
 
 Pagina.html = Es el principal archivo del proyecto, en él se encuentra toda la información en formato HTML, con solo descargarlo se podrá visualizar su información y diseño, está hecho para que funcione con pantallas 1920 x 1080, trabajar una pantalla más grande o una más pequeña puede afectar considerablemente la experiencia del usuario.
 
-images = Es una carpeta que contiene imágenes que se conectan con la página web. Específicamente, una de ellas muestra un dibujo hecho por Bruno Tarango con los integrantes del equipo (Ángel Olivia son los papás, nunca fue santa ni chambeo en el equipo). La segunda imagen muestra un dinosaurio hecho con https://gencraft.com/generate, una IA para imágenes.
+images = Es una carpeta que contiene imágenes que se conectan con la página web. Específicamente, una de ellas muestra un dibujo hecho por Bruno Tarango con los integrantes del equipo (Ángel Olivia no aportó al equipo, trabajó hasta las últimas horas). La segunda imagen muestra un dinosaurio hecho con https://gencraft.com/generate, una IA para imágenes.
 
 README.md = Es el documento donde se encuentra el actual reporte.
 

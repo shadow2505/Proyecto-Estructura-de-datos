@@ -226,17 +226,6 @@
             <div class="BlackBox">
                 <iframe src="https://www.blackbox.ai" width="85%" height="450px" frameborder="0"></iframe>
             </div>
-            <form id="topicForm">
-                <label for="topic">Enter a topic:</label>
-                <input type="text" id="topic" name="topic" placeholder="E.g., Explain sorting structures" required>
-                <label for="details">Additional Details (optional):</label>
-                <textarea id="details" name="details" placeholder="E.g., A specific structure."></textarea>
-                <button type="submit">Generate Information</button>
-            </form>
-            <div class="output" id="output" style="display:none;">
-                <h3>Generated Information:</h3>
-                <p id="response"></p>
-            </div>
 
             <!-- Sections -->
             <div class="section" id="section1">
@@ -497,15 +486,9 @@
                     <li><strong>Ventajas:</strong> Eficiente para grandes conjuntos de datos dinámicos.</li>
                 </ul>
             </div>
-            <div class="code-try" id = "codeTry">
-                <h2>Compilador en C</h2>
-                <div id="editor" style="height: 400px; width: 100%; margin-bottom: 20px;"></div>
-                <button id="runCode" style="margin-right: 10px;">Run Code</button>
-                <button id="clearConsole">Clear Console</button>
-                <div id="console" style="height: 150px; background-color: #000; color: #0f0; padding: 10px; overflow-y: auto; margin-top: 20px;"></div>
-            </div>
 
-            <div class="code-compilation">
+            <div class="code-compilation" id = "codeTry">
+                <h2>Compilador en C</h2>
                 <iframe src="https://www.onlinegdb.com" width="85%" height="450px" frameborder="0"></iframe>
             </div>
             <div class = "References">
